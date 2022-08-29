@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/CelesteGc/CTD-ParcialEspecializacionBackend/tree/main/configs
+          uri: https://github.com/CelesteGc/CTD-Parcial-Especializacion-backend/tree/main/configs
