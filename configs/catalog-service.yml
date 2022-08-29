@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8004}
+
+message: custom configuration with Spring Cloud Config
